@@ -13,3 +13,5 @@
 - **Design Tools**: Iconsax, Mesh Gradient, Super Designer, Design Valute
 ## Getting Started
 ** Clone the repository:
+ ```bash
+git clone https://github.com/Nartyanaman/EventEase.git
