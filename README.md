@@ -9,7 +9,7 @@
 ## Tech Stack
 - **Backend**: Java Spring Boot
 - **Database**: MySQL
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, 
 - **Design Tools**: Iconsax, Mesh Gradient, Super Designer, Design Valute
 ## Getting Started
 ** Clone the repository:
