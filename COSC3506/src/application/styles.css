@@ -1,0 +1,53 @@
+.root {
+    -fx-font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    -fx-padding: 20;
+    -fx-spacing: 15;
+    -fx-alignment: center;
+    -fx-background-color: #f4f4f9;
+}
+
+.label {
+    -fx-font-size: 16px;
+    -fx-text-fill: #333;
+    -fx-font-weight: bold;
+}
+
+.button {
+    -fx-background-color: #6200ea;
+    -fx-text-fill: white;
+    -fx-padding: 8 20;
+    -fx-border-radius: 25;
+    -fx-background-radius: 25;
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-cursor: hand;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.25), 5, 0.5, 0, 0);
+}
+
+.button:hover {
+    -fx-background-color: #3700b3;
+}
+
+.button:pressed {
+    -fx-background-color: #03dac5;
+}
+
+.text-field, .password-field {
+    -fx-padding: 8;
+    -fx-border-color: #6200ea;
+    -fx-border-width: 2;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-font-size: 12px;
+}
+
+.vbox {
+    -fx-spacing: 20;
+    -fx-alignment: center;
+}
+
+.scene {
+    -fx-background-color: #ffffff;
+    -fx-padding: 20;
+    -fx-alignment: center;
+}
