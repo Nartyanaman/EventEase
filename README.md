@@ -7,9 +7,9 @@
 - Real-Time Notifications
 
 ## Tech Stack
-- **Backend**: Java Spring Boot
+- **Backend**: Java 
 - **Database**: MySQL
-- **Frontend**: HTML, CSS, 
+- **Frontend**: HTML, CSS, JAVAFX 
 - **Design Tools**: Iconsax, Mesh Gradient, Super Designer, Design Valute
 ## Getting Started
 ** Clone the repository:
